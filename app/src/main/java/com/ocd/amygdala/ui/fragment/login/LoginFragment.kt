@@ -16,6 +16,8 @@ import com.facebook.login.LoginResult
 import com.ocd.amygdala.ui.activity.host.HostActivity
 import com.ocd.amygdala.app.databinding.FragmentLoginBinding
 
+
+//Fragment for logging in into the app using firebase auth
 class LoginFragment : Fragment() {
     private val RC_SIGN_IN = 1
     private lateinit var mCallbackManager: CallbackManager

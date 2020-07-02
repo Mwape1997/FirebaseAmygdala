@@ -15,6 +15,7 @@ import com.ocd.amygdala.utils.Prefs
 import com.ocd.amygdala.app.databinding.FragmentOnBoardingBinding
 import kotlinx.android.synthetic.main.fragment_on_boarding.*
 
+//onboading fragment for the onboarding screen
 class OnBoarding : Fragment() {
     private var sliderAdapter: SliderAdapter =
         SliderAdapter()
@@ -30,7 +31,7 @@ class OnBoarding : Fragment() {
         binding.onBoardingViewModel = viewModel
         binding.lifecycleOwner = this
 
-        viewModel.dataSet.observe(this, Observer {
+        viewModel.dataSet.observe(viewLifecycleOwner, Observer {
             viewPager2.adapter = sliderAdapter
             sliderAdapter.setItems(it)
             TabLayoutMediator(
@@ -42,11 +43,11 @@ class OnBoarding : Fragment() {
                     }
                 }).attach()
         })
-        viewModel.startNavigation.observe(this, Observer {
+        viewModel.startNavigation.observe(viewLifecycleOwner, Observer {
             if (it) {
                 this.findNavController()
                     .navigate(OnBoardingDirections.actionOnBoardingToAuthFragment())
-                Prefs.getInstance(context!!)!!.hasCompletedWalkthrough = false
+                Prefs.getInstance(context!!)!!.finishedOnboading = false
                 viewModel.doneNavigation()
             }
         })

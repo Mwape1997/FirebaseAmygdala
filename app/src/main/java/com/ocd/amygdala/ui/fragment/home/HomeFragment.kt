@@ -12,7 +12,7 @@ import androidx.navigation.findNavController
 import com.google.firebase.auth.FirebaseAuth
 import com.ocd.amygdala.app.databinding.FragmentHomeBinding
 
-
+//home fragment for logged in users
 class HomeFragment : Fragment() {
     private lateinit var binding: FragmentHomeBinding
     override fun onCreateView(

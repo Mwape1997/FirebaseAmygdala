@@ -8,7 +8,7 @@ class Prefs(context: Context) {
         context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
 
 
-    var hasCompletedWalkthrough: Boolean?
+    var finishedOnboading: Boolean?
         get() = mPrefs?.getBoolean(ISFIRSTRUN, true)
         set(isFirstRun) = mPrefs?.edit()?.putBoolean(ISFIRSTRUN, isFirstRun!!)!!.apply()
 

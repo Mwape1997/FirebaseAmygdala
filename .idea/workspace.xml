@@ -9,8 +9,13 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8066157c-c395-48fa-8b5a-72699e889f63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="8066157c-c395-48fa-8b5a-72699e889f63" name="Default Changelist" comment="V2.1 Last Major update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/ui/activity/host/HostActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/ui/activity/host/HostActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/ui/fragment/home/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/ui/fragment/home/HomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/ui/fragment/login/LoginFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/ui/fragment/login/LoginFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/ui/fragment/onBoarding/OnBoarding.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/ui/fragment/onBoarding/OnBoarding.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/utils/Prefs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ocd/amygdala/utils/Prefs.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593725942441</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="V2.1 Last Major update">
+      <created>1593726010968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593726010968</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

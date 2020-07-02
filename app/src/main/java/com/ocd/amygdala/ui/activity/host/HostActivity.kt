@@ -65,7 +65,7 @@ class HostActivity : AppCompatActivity() {
                 drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED)
             }
         }
-        if (!Prefs.getInstance(this)!!.hasCompletedWalkthrough!!) {
+        if (!Prefs.getInstance(this)!!.finishedOnboading!!) {
             if (mAuth.currentUser == null) {
                 graph.startDestination = R.id.authFragment
             } else {

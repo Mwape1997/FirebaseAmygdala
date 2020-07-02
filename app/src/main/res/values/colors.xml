@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="Text_white">#FFFFFF</color>
+    <color name="Text_Grey">#444444</color>
+    <color name="Color_Primary_Color">#11375e</color>
+    <color name="onBoarding_Color">#E0E2D5</color>
+
+
+    <color name="subTextColor">#7e7e7e</color>
+    <color name="mainBgColor">#ffffff</color>
+    <color name="hairLineColor">#d6d6d6</color>
+    <color name="mainTextColor">#000000</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

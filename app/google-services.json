@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736821142637",
+    "firebase_url": "https://amygdala-e2196.firebaseio.com",
+    "project_id": "amygdala-e2196",
+    "storage_bucket": "amygdala-e2196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736821142637:android:71fc9d0d64621ec7cf0b64",
+        "android_client_info": {
+          "package_name": "com.ocd.amygdala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736821142637-khv6gj6cfpn0hb5rcug7ke7pjdmdklsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ocd.amygdala",
+            "certificate_hash": "81e7976cfb13fef8113aa41ecafd2bc6ad59bbc2"
+          }
+        },
+        {
+          "client_id": "736821142637-7d42e2v7nvnovopmoq4one38iaqvsg8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnV4Z3ddyieQUDGCdGkkv-9qVqbwAuqI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736821142637-7d42e2v7nvnovopmoq4one38iaqvsg8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

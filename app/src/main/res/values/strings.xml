@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Amygdala</string>
+    <string name="continue_string">Continue</string>
+
+
+    <string name="stay_in_touch">Use this starter kit to build your Android app faster.</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_to_messenger">Kotlin Starter Kit with Firebase</string>
+
+    <string name="facebookLogin">Facebook Login</string>
+    <string name="facebook_app_id">686078505161575</string>
+    <string name="fb_login_protocol_scheme">fb686078505161575</string>
+
+    <string name="fullName">Full Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="or">or</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="name_required_error">Name is required to sign up.</string>
+    <string name="phone_required_error">Phone number is required to sign up.</string>
+    <string name="email_required_error">Email address is required to sign up.</string>
+    <string name="password_required_error">Password is required to sign up.</string>
+    <string name="malformed_phone_error">This phone number is badly formatted.</string>
+    <string name="malformed_email_error">This email address is badly formatted.</string>
+    <string name="short_password_error">Password should be at least 6 characters.</string>
+    <string name="select_image">Select Image</string>
+    <string name="logout">Log Out</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome_image">welcocome_image</string>
+    <string name="Email">Email</string>
+    <string name="Welcome_Text">Hello!</string>
+    <string name="Login_Button">SIGN IN</string>
+    <string name="empty_string" />
+    <string name="Sign_Up">Sign Up</string>
+    <string name="Register_Name">First Name</string>
+    <string name="Register_Name_two">Last Name</string>
+    <string name="Mayer">Mayer</string>
+    <string name="John">John</string>
+    <string name="Empty_String" />
+    <string name="Enter_Password">Enter Password</string>
+    <string name="Re_enter_Password">Retype Password</string>
+    <string name="Sad_Text">:(</string>
+    <string name="Forgot_Pass">Forgot your password? Enter your email below</string>
+    <string name="Hint_Email">guymartin@mwape.net</string>
+    <string name="Happy_Text">:)</string>
+    <string name="Enter_New_Password">Enter New Password</string>
+    <string name="Retype_Password">Retype Password</string>
+    <string name="Profile_Picture_Content_Des">:)</string>
+    <string name="Exposure">Exposure</string>
+    <string name="Exposure_Description">Your Exposure for the week</string>
+    <string name="Your_Feed">Feed</string>
+    <string name="What_Is_New">What\'s New?</string>
+    <string name="Emergency">Emergency!</string>
+    <string name="Create_Post">Post!</string>
+    <string name="News_Feed">See Latest Posts</string>
+    <string name="Example_Post">Not my best days 😐😐😐</string>
+    <string name="Encouragement">Remember! This too shall pass. Do not give into your temptations! You are stronger than this 🤗</string>
+    <string name="Today_Exercise">Today\'s Exercise</string>
+    <string name="Resist">Resist your compulsion for 5 minutes!</string>
+    <string name="fake_time">0:00</string>
+    <string name="Logout">Logout</string>
+
+</resources>
